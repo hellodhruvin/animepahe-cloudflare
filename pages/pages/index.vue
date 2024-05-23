@@ -1,9 +1,8 @@
 <template>
-	<Cookie />
-	<AnimeLoader/>
+  <AnimeLoader />
 </template>
 <script setup>
 useHead({
-	title: 'Animepahe Downlader'
-})
+  title: "Animepahe Downlader",
+});
 </script>
