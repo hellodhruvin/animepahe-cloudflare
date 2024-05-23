@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       DEV: false,
-      API: "https://anime.apex-cloud.workers.dev/",
+      API: "https://animepahe.hellodhruvin.workers.dev/",
     },
   },
   image: {
@@ -26,8 +26,8 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       routes: [
-        "/_ipx/h_205&f_png&blur_10&q_50/pahe.png",
-        "/_ipx/h_384&f_png&blur_10&q_50/pahe.png",
+        // "/_ipx/h_205&f_png&blur_10&q_50/pahe.png",
+        // "/_ipx/h_384&f_png&blur_10&q_50/pahe.png",
       ],
     },
   },
