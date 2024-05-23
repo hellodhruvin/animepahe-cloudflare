@@ -1,4 +1,4 @@
-name = "anime"
+name = "animepahe"
 main = "src/worker.ts"
 compatibility_date = "2023-11-07"
 env = { }
