@@ -9,7 +9,7 @@
           NxtImg('/pahe.png', { h: 384, f: 'png', blur: 10, q: 50 })
         "
         :src="Prox(API, poster)"
-        alt="Shoes"
+        alt="Loading Poster..."
         class="h-96 rounded-md"
       />
     </figure>

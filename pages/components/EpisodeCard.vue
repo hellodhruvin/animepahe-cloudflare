@@ -7,7 +7,7 @@
           NxtImg('/pahe.png', { h: 205, f: 'png', blur: 10, q: 50 })
         "
         :src="Prox(API, img)"
-        alt="snapshot"
+        alt="Loading episode snapshot"
       />
     </figure>
     <div class="card-body justify-between">
